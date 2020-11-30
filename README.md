@@ -1,1 +1,1 @@
-Workspace for text analytics work relevant to the Antarctic environment.
+Workspace for text analytics relevant to the Antarctic environment.
