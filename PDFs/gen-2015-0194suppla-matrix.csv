@@ -1,0 +1,177 @@
+,Found as,Full name,InDefinitiveList,Start_species,End_species,PositionOfFirstToken,Sentence_species,InReferenceList,Location,Original Tokenised Text,Start_location,End_location,Sentence_location,NZGazAnt,NZGaz,ScarNZ,ScarGlobal,GeoNamesNZ,GeoNamesAnt,GeoNames,exactMatch,Close_Match_NZGazAnt,Close_Match_NZGaz,Close_Match_ScarNZ,Close_Match_ScarGlobal,Close_Match_GeoNamesNZ,Close_Match_GeoNamesAnt,Close_Match,PartialMatch_NZGazAnt,PartialMatch_NZGaz,PartialMatch_ScarNZ,PartialMatch_ScarGlobal,PartialMatch_GeoNamesNZ,PartialMatch_GeoNamesAnt,PartialMatch,inNZ,inAntarctica,Found
+0,G. hodgsoni,Gomphiocephalus hodgsoni,True,28,30,172,"G. hodgsoni Gh1
+Gh2
+",True,Tiger Island,Tiger Island,239,241,"Mount Seuss Mount Seuss Flatiron
+Tiger Island Tiger Island Tiger Island
+Benson Glacier
+Mount Seuss
+-77.2801",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+1,G. hodgsoni,Gomphiocephalus hodgsoni,True,28,30,172,"G. hodgsoni Gh1
+Gh2
+",True,Tiger Island,Tiger Island,580,582,"Springtail Point
+Tiger Island
+",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+2,A. monoculata,Antarcticinella monoculata,True,392,394,2069,"A. monoculata
+Aml
+Am?2
+",True,Tiger Island,Tiger Island,239,241,"Mount Seuss Mount Seuss Flatiron
+Tiger Island Tiger Island Tiger Island
+Benson Glacier
+Mount Seuss
+-77.2801",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+3,A. monoculata,Antarcticinella monoculata,True,392,394,2069,"A. monoculata
+Aml
+Am?2
+",True,Tiger Island,Tiger Island,580,582,"Springtail Point
+Tiger Island
+",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+4,C. nivicolus,Cryptopygus nivicolus,True,565,567,2994,"ANTSP622 ANTSP196, ANTSP235 Am6
+C. nivicolus
+",False,Tiger Island,Tiger Island,239,241,"Mount Seuss Mount Seuss Flatiron
+Tiger Island Tiger Island Tiger Island
+Benson Glacier
+Mount Seuss
+-77.2801",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+5,C. nivicolus,Cryptopygus nivicolus,True,565,567,2994,"ANTSP622 ANTSP196, ANTSP235 Am6
+C. nivicolus
+",False,Tiger Island,Tiger Island,580,582,"Springtail Point
+Tiger Island
+",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+6,Gomphiocephalus hodgsoni,Gomphiocephalus hodgsoni,True,678,680,3636,"Bayesian Inference tree showing estimated divergence times for Gomphiocephalus hodgsoni , Cryptopygus nivicolus and
+Antarcticinella monoculata.",True,Tiger Island,Tiger Island,239,241,"Mount Seuss Mount Seuss Flatiron
+Tiger Island Tiger Island Tiger Island
+Benson Glacier
+Mount Seuss
+-77.2801",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+7,Gomphiocephalus hodgsoni,Gomphiocephalus hodgsoni,True,678,680,3636,"Bayesian Inference tree showing estimated divergence times for Gomphiocephalus hodgsoni , Cryptopygus nivicolus and
+Antarcticinella monoculata.",True,Tiger Island,Tiger Island,580,582,"Springtail Point
+Tiger Island
+",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+8,Cryptopygus nivicolus,Cryptopygus nivicolus,True,681,683,3663,"Bayesian Inference tree showing estimated divergence times for Gomphiocephalus hodgsoni , Cryptopygus nivicolus and
+Antarcticinella monoculata.",False,Tiger Island,Tiger Island,239,241,"Mount Seuss Mount Seuss Flatiron
+Tiger Island Tiger Island Tiger Island
+Benson Glacier
+Mount Seuss
+-77.2801",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+9,Cryptopygus nivicolus,Cryptopygus nivicolus,True,681,683,3663,"Bayesian Inference tree showing estimated divergence times for Gomphiocephalus hodgsoni , Cryptopygus nivicolus and
+Antarcticinella monoculata.",False,Tiger Island,Tiger Island,580,582,"Springtail Point
+Tiger Island
+",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+10,Antarcticinella monoculata,Antarcticinella monoculata,True,685,687,3689,"Bayesian Inference tree showing estimated divergence times for Gomphiocephalus hodgsoni , Cryptopygus nivicolus and
+Antarcticinella monoculata.",True,Tiger Island,Tiger Island,239,241,"Mount Seuss Mount Seuss Flatiron
+Tiger Island Tiger Island Tiger Island
+Benson Glacier
+Mount Seuss
+-77.2801",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+11,Antarcticinella monoculata,Antarcticinella monoculata,True,685,687,3689,"Bayesian Inference tree showing estimated divergence times for Gomphiocephalus hodgsoni , Cryptopygus nivicolus and
+Antarcticinella monoculata.",True,Tiger Island,Tiger Island,580,582,"Springtail Point
+Tiger Island
+",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+12,G. hodgsoni,Gomphiocephalus hodgsoni,True,736,738,3881,"y
+G. hodgsoni
+A. monoculata
+C. nivicolus Fig.",True,Tiger Island,Tiger Island,239,241,"Mount Seuss Mount Seuss Flatiron
+Tiger Island Tiger Island Tiger Island
+Benson Glacier
+Mount Seuss
+-77.2801",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+13,G. hodgsoni,Gomphiocephalus hodgsoni,True,736,738,3881,"y
+G. hodgsoni
+A. monoculata
+C. nivicolus Fig.",True,Tiger Island,Tiger Island,580,582,"Springtail Point
+Tiger Island
+",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+14,A. monoculata,Antarcticinella monoculata,True,739,741,3893,"y
+G. hodgsoni
+A. monoculata
+C. nivicolus Fig.",True,Tiger Island,Tiger Island,239,241,"Mount Seuss Mount Seuss Flatiron
+Tiger Island Tiger Island Tiger Island
+Benson Glacier
+Mount Seuss
+-77.2801",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+15,A. monoculata,Antarcticinella monoculata,True,739,741,3893,"y
+G. hodgsoni
+A. monoculata
+C. nivicolus Fig.",True,Tiger Island,Tiger Island,580,582,"Springtail Point
+Tiger Island
+",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+16,C. nivicolus,Cryptopygus nivicolus,True,742,744,3907,"y
+G. hodgsoni
+A. monoculata
+C. nivicolus Fig.",False,Tiger Island,Tiger Island,239,241,"Mount Seuss Mount Seuss Flatiron
+Tiger Island Tiger Island Tiger Island
+Benson Glacier
+Mount Seuss
+-77.2801",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+17,C. nivicolus,Cryptopygus nivicolus,True,742,744,3907,"y
+G. hodgsoni
+A. monoculata
+C. nivicolus Fig.",False,Tiger Island,Tiger Island,580,582,"Springtail Point
+Tiger Island
+",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+18,G. hodgsoni,Gomphiocephalus hodgsoni,True,808,810,4302,G. hodgsoni W BOLD:,True,Tiger Island,Tiger Island,239,241,"Mount Seuss Mount Seuss Flatiron
+Tiger Island Tiger Island Tiger Island
+Benson Glacier
+Mount Seuss
+-77.2801",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+19,G. hodgsoni,Gomphiocephalus hodgsoni,True,808,810,4302,G. hodgsoni W BOLD:,True,Tiger Island,Tiger Island,580,582,"Springtail Point
+Tiger Island
+",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+20,C. nivicolus,Cryptopygus nivicolus,True,820,822,4346,"ACT28511
+C. nivicolus",False,Tiger Island,Tiger Island,239,241,"Mount Seuss Mount Seuss Flatiron
+Tiger Island Tiger Island Tiger Island
+Benson Glacier
+Mount Seuss
+-77.2801",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+21,C. nivicolus,Cryptopygus nivicolus,True,820,822,4346,"ACT28511
+C. nivicolus",False,Tiger Island,Tiger Island,580,582,"Springtail Point
+Tiger Island
+",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+22,A. monoculata,Antarcticinella monoculata,True,836,838,4406,"AAG3913
+A. monoculata
+))",True,Tiger Island,Tiger Island,239,241,"Mount Seuss Mount Seuss Flatiron
+Tiger Island Tiger Island Tiger Island
+Benson Glacier
+Mount Seuss
+-77.2801",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+23,A. monoculata,Antarcticinella monoculata,True,836,838,4406,"AAG3913
+A. monoculata
+))",True,Tiger Island,Tiger Island,580,582,"Springtail Point
+Tiger Island
+",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+24,G. hodgsoni,Gomphiocephalus hodgsoni,True,864,866,4509,"an
+0.98 Amd jAm1
+ 
+Outgroups G. hodgsoni ™@",True,Tiger Island,Tiger Island,239,241,"Mount Seuss Mount Seuss Flatiron
+Tiger Island Tiger Island Tiger Island
+Benson Glacier
+Mount Seuss
+-77.2801",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+25,G. hodgsoni,Gomphiocephalus hodgsoni,True,864,866,4509,"an
+0.98 Amd jAm1
+ 
+Outgroups G. hodgsoni ™@",True,Tiger Island,Tiger Island,580,582,"Springtail Point
+Tiger Island
+",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+26,C. nivicolus,Cryptopygus nivicolus,True,877,879,4552,"ACT2851
+C. nivicolus",False,Tiger Island,Tiger Island,239,241,"Mount Seuss Mount Seuss Flatiron
+Tiger Island Tiger Island Tiger Island
+Benson Glacier
+Mount Seuss
+-77.2801",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+27,C. nivicolus,Cryptopygus nivicolus,True,877,879,4552,"ACT2851
+C. nivicolus",False,Tiger Island,Tiger Island,580,582,"Springtail Point
+Tiger Island
+",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+28,A. monoculata,Antarcticinella monoculata,True,893,895,4612,"AAG3913
+A. monoculata
+)",True,Tiger Island,Tiger Island,239,241,"Mount Seuss Mount Seuss Flatiron
+Tiger Island Tiger Island Tiger Island
+Benson Glacier
+Mount Seuss
+-77.2801",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
+29,A. monoculata,Antarcticinella monoculata,True,893,895,4612,"AAG3913
+A. monoculata
+)",True,Tiger Island,Tiger Island,580,582,"Springtail Point
+Tiger Island
+",True,True,True,True,False,True,True,True,,,,,,,,,,,,,,,True,True,True
