@@ -1,5 +1,11 @@
-Workspace for text analytics relevant to the Antarctic environment.
+Please note, this student project was completed and the repository is archived.
 
+The resources in this repository are associated with the following publication:
+
+Scott, Jamie, Kristin Stock, Fraser Morgan, Brandon Whitehead, and David Medyckyj-Scott. “Automated Georeferencing of Antarctic Species.” In 11th International Conference on Geographic Information Science (GIScience 2021) - Part II, edited by Krzysztof Janowicz and Judith A. Verstegen, 208:13:1-13:16. Leibniz International Proceedings in Informatics (LIPIcs). Dagstuhl, Germany: Schloss Dagstuhl – Leibniz-Zentrum für Informatik, 2021. https://doi.org/10.4230/LIPIcs.GIScience.2021.II.13.
+
+
+### notes
 The project had three main facets:
 1) Extracting a clean text stream from legacy documents
 2) Recognising mentions of species and locations within a document
