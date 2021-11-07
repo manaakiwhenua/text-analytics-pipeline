@@ -1,4 +1,4 @@
-Please note, this student project was completed and the repository is archived.
+**Please note, this student project was completed and the repository is archived.**
 
 The resources in this repository are associated with the following publication:
 
